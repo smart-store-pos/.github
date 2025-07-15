@@ -1,4 +1,4 @@
-# Smart Store - Your All-in-One Smart Restaurant Management System
+# Smart Store - Smart Restaurant Management System
 
 Welcome to Smart Store, an advanced technological solution designed to revolutionize the management and operational aspects of all types of restaurants. From small eateries to large restaurant chains, Smart Store provides a synchronized ecosystem of applications, helping you optimize processes, enhance customer experience, and drive revenue growth.
 
